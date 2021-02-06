@@ -1,0 +1,32 @@
+export const users = [
+  {
+    id: '1',
+    first_name: 'Luke Skywalker',
+    last_name: '172',
+    mass: '77',
+    hair_color: 'blond',
+    skin_color: 'fair',
+    eye_color: 'blue',
+    gender: 'male',
+  },
+  {
+    id: '2',
+    first_name: 'Darth Vader',
+    last_name: '167',
+    mass: '75',
+    hair_color: 'n/a',
+    skin_color: 'gold',
+    eye_color: 'yellow',
+    gender: 'n/a',
+  },
+  {
+    id: '3',
+    first_name: '',
+    last_name: '96',
+    mass: '32',
+    hair_color: 'n/a',
+    skin_color: 'white, blue',
+    eye_color: 'red',
+    gender: 'n/a',
+  },
+]
